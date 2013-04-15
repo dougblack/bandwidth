@@ -1,0 +1,2 @@
+PATH=/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/doug/bin
+* * * * * /home/doug/connections/scan.sh > /var/log/scan_output.log 2>&1
